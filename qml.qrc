@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/CarouselView.qml</file>
+        <file>qml/CarouselPathView.qml</file>
+        <file>qml/Cinematic3DScene.qml</file>
+        <file>qml/BackgroundCubeMap.qml</file>
+        <file>qml/EnvMappedWavyGLES2ShaderProgram.qml</file>
+        <file>qml/EnvMappedBoxGLES2ShaderProgram.qml</file>
+        <file>qml/Cover3D.qml</file>
+        <file>qml/PlayerView.qml</file>
+        <file>qml/IconButton.qml</file>
+        <file>qml/DetailsView.qml</file>
+        <file>qml/TextureBox3D.qml</file>
+        <file>qml/MipMappedTexture2D.qml</file>
+        <file>qml/InfoView.qml</file>
+        <file>qml/SettingsView.qml</file>
+        <file>qml/Switch.qml</file>
+        <file>qml/FpsItem.qml</file>
+        <file>qml/Sphere3D.qml</file>
+        <file>qml/TexturedBoxGLES2ShaderProgram.qml</file>
+        <file>qml/TexturedWavyShaderProgram.qml</file>
+        <file>qml/Cinematic3D_videos.xml</file>
+    </qresource>
+</RCC>

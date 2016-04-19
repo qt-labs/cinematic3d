@@ -1,0 +1,3 @@
+To support local videos:
+- Add here mp4 video files with names matching to XML model.
+- To bundle videos on OS X, enable video files in pro file VIDEO_FILES.

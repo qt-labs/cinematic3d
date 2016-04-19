@@ -1,0 +1,52 @@
+<videolist>
+
+<item>
+<title>Build Your World with Qt</title>
+<thumbnail>Build_Your_World</thumbnail>
+<link>Build_Your_World_With_Qt.mp4</link>
+<description>Qt is the leading independent technology for cross-platform development. Create connected devices, UIs and applications that run anywhere on any device, on any operating system at any time.
+
+Companies in over 70 industries use Qt to power millions of devices and applications. Build your world with Qt.
+</description>
+</item>
+
+<item>
+<title>Bluescape</title>
+<thumbnail>Bluescape</thumbnail>
+<link>Bluescape_collaborative_workspace.mp4</link>
+<description>Bluescape cloud-based visual collaborative workspace
+
+With the support of Digia, Qt Services, Bluescape developed a special mapping software for teams to execute simultaneous collaboration on any device. Digia, Qt's knowledgeable team and performing technology resulted in Bluescape to look no further.
+</description>
+</item>
+
+<item>
+<title>Internet of Things</title>
+<thumbnail>IoT</thumbnail>
+<link>IoT_and_Qt.mp4</link>
+<description>Internet of Things and Qt
+
+The Qt Weather Station is a simple demo of how easy it is to create Internet of Things systems with Qt, the cross-platform application and UI framework.
+</description>
+</item>
+
+<item>
+<title>Meet Qt Creator</title>
+<thumbnail>Meet_Qt_Creator</thumbnail>
+<link>Meet_Qt_Creator.mp4</link>
+<description>Cross-platform Integrated Development Environment
+
+Whether you are creating a mobile app, desktop application or a connected embedded device, Qt Creator is the cross-platform IDE that makes application and UI development a breeze. Since time-to-market is key, the IDE includes productivity tools that speed up your development time.
+</description>
+</item>
+
+
+<item>
+<title>3D Planets Example</title>
+<thumbnail>3D_Planets</thumbnail>
+<link>3D_Planets_Example.mp4</link>
+<description>Qt 5.5 features the new Qt Canvas 3D module that lets you integrate 3D contents written with a WebGL-like API. the 3D Planets example is written with the Three.js 3D library. The same example is also implemented using the technology preview of the new Qt 3D module, using a Qt API.
+</description>
+</item>
+
+</videolist>
