@@ -9,6 +9,8 @@ RESOURCES += \
     qml.qrc \
     images.qrc
 
+OTHER_FILES += qml/*.qml
+
 VIDEO_FILES.files = \
     # Note: Enable these if videos are bundled locally
     #videos/Build_Your_World_With_Qt.mp4 \

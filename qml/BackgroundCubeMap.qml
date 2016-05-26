@@ -40,6 +40,7 @@
 
 import Qt3D.Core 2.0
 import Qt3D.Render 2.0
+import Qt3D.Extras 2.0
 
 Entity {
     property alias cameraPosition: transform.translation
@@ -116,6 +117,8 @@ Entity {
         effect: Effect {
             techniques: [
                 Technique {
+                    filterKeys: FilterKey { name: "renderingStyle"; value: "forward" }
+
                     graphicsApiFilter {
                         api: GraphicsApiFilter.OpenGLES
                         profile: GraphicsApiFilter.NoProfile
@@ -131,6 +134,8 @@ Entity {
                     }
                 },
                 Technique {
+                    filterKeys: FilterKey { name: "renderingStyle"; value: "forward" }
+
                     graphicsApiFilter {
                         api: GraphicsApiFilter.OpenGL
                         profile: GraphicsApiFilter.NoProfile
